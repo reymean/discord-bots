@@ -1,0 +1,12 @@
+{
+  "name": "discord-channel-builder-bot",
+  "version": "1.0.0",
+  "description": "AI-powered Discord bot that creates channels from plain English descriptions",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "discord-server-builder",
+  "version": "2.0.0",
+  "description": "Full-featured Discord server management bot — no API key needed",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
